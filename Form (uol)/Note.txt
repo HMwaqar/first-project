@@ -1,0 +1,3 @@
+-> yaha pr form wala page link hai insert_process waley page k saath
+-> our view wala page edit our delete waley k saath link hai
+-> our edit wala page aagey update waley k saath link hai
